@@ -43,6 +43,9 @@ section ul{
     margin-top: 10px;   
     margin-left: 280px;
 }
+section ul li{
+    margin-top: 5px;
+}
 section ul button{
     position: absolute;
     height: 30px;
@@ -62,6 +65,16 @@ section button{
 }
 section p{
     font-size: 12px;
+}
+section .infotable{
+    position: absolute;
+    background-color: white;
+    left: 450px;
+    top: 80px;
+}
+section .infotable td{
+    height: 29px;
+    width: 200px;
 }
 footer{
     background-color: #a8b5c4;
